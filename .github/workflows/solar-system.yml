@@ -9,7 +9,7 @@ on:
 
 env:
     MONGO_URI: "mongodb+srv://a199solomon6:Qa4Zc2dKTqaPQDZf@cluster0.nlx0ovj.mongodb.net/"
-    MONGO_PASSWORD: "A199solomon6"
+    MONGO_PASSWORD: "Qa4Zc2dKTqaPQDZf"
     MONGO_USERNAME: "a199solomon6"
 
 jobs:
